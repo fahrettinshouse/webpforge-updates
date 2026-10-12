@@ -1,8 +1,8 @@
 {
-    "version":  "0.39",
-    "tag":  "v0.39",
-    "file":  "v0.39.zip",
-    "download_url":  "https://github.com/fahrettinshouse/webpforge-updates/releases/download/v0.39/v0.39.zip",
-    "sha256":  "d2af8a4c631e3d6c93092c5714aecd28447a50ec3ee2ccb358354b43a7c79cf9",
-    "published_at":  "2026-10-12T15:07:11Z"
+    "version":  "0.42",
+    "tag":  "v0.42",
+    "file":  "v0.42.zip",
+    "download_url":  "https://github.com/fahrettinshouse/webpforge-updates/releases/download/v0.42/v0.42.zip",
+    "sha256":  "b1a3228fbc38667bd48dec5fbf1716de95b0ab6b5f2f5f6864678995effad498",
+    "published_at":  "2026-10-12T15:29:47Z"
 }
